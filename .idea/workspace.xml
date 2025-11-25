@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70960df2-f211-489b-88da-47375671a38b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ISY503_NLP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data/sorted_data_acl/books/negative.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data/sorted_data_acl/books/positive.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data/sorted_data_acl/dvd/negative.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data/sorted_data_acl/dvd/positive.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data/sorted_data_acl/dvd/unlabeled.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data/sorted_data_acl/electronics/negative.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data/sorted_data_acl/electronics/positive.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data/sorted_data_acl/electronics/unlabeled.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data/sorted_data_acl/kitchen_&amp;_housewares/negative.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data/sorted_data_acl/kitchen_&amp;_housewares/positive.review" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain_sentiment_data/sorted_data_acl/kitchen_&amp;_housewares/unlabeled.review" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="35wxkC3wZ30Q7NPFqWj7XRXltaJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.sentiment_pipeline.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70960df2-f211-489b-88da-47375671a38b" name="Changes" comment="" />
+      <created>1764035075301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764035075301</updated>
+    </task>
+    <servers />
+  </component>
+</project>
