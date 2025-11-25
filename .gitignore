@@ -1,0 +1,13 @@
+# Ignore dataset
+domain_sentiment_data/
+domain_sentiment_data.tar.gz
+
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore model backups
+*.h5
+
+# Ignore OS files
+.DS_Store

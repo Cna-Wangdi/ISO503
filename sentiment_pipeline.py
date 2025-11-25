@@ -34,7 +34,7 @@ RANDOM_SEED = 42
 EMBED_DIM = 128
 LSTM_UNITS = 256
 BATCH_SIZE = 64
-EPOCHS = 5              # can increase further if needed
+EPOCHS = 10               # can increase further if needed
 
 
 # 1. LOAD DATA FROM SENTIMENT FILES
